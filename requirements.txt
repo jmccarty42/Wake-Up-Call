@@ -1,0 +1,12 @@
+Flask==0.12.3
+Jinja2>=2.8.1
+MarkupSafe==0.23
+Werkzeug>=0.15.3
+httplib2==0.9
+itsdangerous==0.24
+six==1.*
+twilio==6.10.0
+wsgiref==0.1.2
+nose
+requests
+pyjwt
